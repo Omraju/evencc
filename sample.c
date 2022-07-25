@@ -2,6 +2,7 @@
 
 void main()
 {
+   //hello
    int i,n;
 
    printf("Input number of terms : ");
